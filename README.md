@@ -1,4 +1,4 @@
-<h4 align="left">Olá! Meu nome é Adauto e sou um Cientista de Dados em desenvolvimento. Sou um apaixonado por tecnologia no geral entretanto a área  de dados é o que faz meu coração bater mais forte.<br>Atualmente sou pós graduando pela PUC-MG no curso de Data Science e Big Data.<br>Procuro estar sempre me atualizando e meu objetivo é estar gerando valor com dados.</h4>
+<h4 align="left">Olá! Meu nome é Adauto e sou um Cientista de Dados em desenvolvimento. Sou um apaixonado por tecnologia no geral entretanto a área  de dados é o que faz meu coração bater mais forte.<br>Atualmente sou pós graduando pela PUC-MG no curso de Data Science e Big Data. Procuro estar sempre me atualizando e meu objetivo é estar gerando valor com dados.</h4>
 
 ###
 
