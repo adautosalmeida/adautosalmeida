@@ -1,4 +1,4 @@
-<h2 align="left">Olá! Meu nome é Adauto e sou um Cientista de Dados em desenvolvimento. Sou um apaixonado por tecnologia no geral entretanto a área  de dados é o que faz meu coração bater mais forte.<br>Atualmente sou pós graduando pela PUC-MG no curso de Data Science e Big Data.<br>Procuro estar sempre me atualizando e meu objetivo é estar gerando valor com dados.</h2>
+<h4 align="left">Olá! Meu nome é Adauto e sou um Cientista de Dados em desenvolvimento. Sou um apaixonado por tecnologia no geral entretanto a área  de dados é o que faz meu coração bater mais forte.<br>Atualmente sou pós graduando pela PUC-MG no curso de Data Science e Big Data.<br>Procuro estar sempre me atualizando e meu objetivo é estar gerando valor com dados.</h4>
 
 ###
 
@@ -22,16 +22,7 @@
   <a href="https://www.instagram.com/adautosalmeida/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="adauto_almeida@yahoo.com.br" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/adautosalmeida/adautosalmeida/blob/output/snake.svg" alt="Snake animation" />
 
 ###
